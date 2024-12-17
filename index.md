@@ -3,12 +3,6 @@ layout: home
 title: "Coding the Direction: Mapping My Data Science Journey"
 ---
 
-# Coding the Direction: Mapping My Data Science Journey
-
-Step into the world where **data science**, **programming**, and **creativity** collide. This is my coding portfolio, where curiosity and problem-solving drive me to innovate. From **geospatial analysis** to sleek algorithms, I’m constantly pushing boundaries and refining my craft. Join me as I transform data into insights and code into real-world solutions—one project at a time!
-
----
-
 ## About Me
 
 I am **Mark James Broqueza**, a passionate programmer and data enthusiast with an undergraduate degree background in geodetic engineering. My journey into data science has allowed me to explore the intersections of spatial analysis, machine learning, and software development. This portfolio showcases a collection of projects that reflect my continuous learning and application of programming to solve real-world problems. Whether it's **geospatial analysis**, **algorithm design**, or **data visualization**, I am always excited to build and explore new solutions!

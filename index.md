@@ -24,7 +24,7 @@ Here you will find a curated selection of my projects. These include both course
    - **Link**: [Geospatial Insights Exercise](https://colab.research.google.com/drive/1VJG00009GZufknQ7KJfNcpwEhyXrYKj7?usp=sharing)
 
 ### 2. **Exploring Vacation Rental Prices: Spatial Regression Analysis in Metro Manila**
-   - **Description**: In this project, I explored spatial regression techniques to analyze vacation rental prices in Metro Manila. By examining factors such as location, neighborhood characteristics, and other spatial variables, I developed insights that can help property owners, investors, and potential renters understand pricing dynamics in the region.
+   - **Description**: In this project, I applied spatial regression techniques to analyze vacation rental prices in Metro Manila. By evaluating factors such as location, neighborhood characteristics, and various spatial variables, I uncovered insights that can assist property owners, investors, and potential renters in understanding the pricing trends and dynamics in the region.
    - **Technologies**: Python, R, SQL, etc.
    - **Link**: [Exploring Vacation Rental Prices Exercise](https://colab.research.google.com/drive/1VJG00009GZufknQ7KJfNcpwEhyXrYKj7?usp=sharing)
 

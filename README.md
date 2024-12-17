@@ -16,16 +16,16 @@ Here you will find a curated selection of my projects. These include both course
 
 ### 1. **Geospatial Insights: Analyzing Building Density with GeoPandas**  
    - **Description**: In this project, I explored the basics of GeoPandas by working with OpenStreetMap (OSM) data for the Philippines. The task involved extracting relevant geospatial data, creating a simple visualization, and calculating the building density for a specific city or municipality. By leveraging GeoPandas, I gained hands-on experience in geospatial data manipulation and analysis, ultimately generating insights into urban structure and development patterns.
-   - **Link**: [(https://colab.research.google.com/drive/1VJG00009GZufknQ7KJfNcpwEhyXrYKj7?usp=sharing)](#)
+   - **Link**: [Geospatial Insights Exercise](https://colab.research.google.com/drive/1VJG00009GZufknQ7KJfNcpwEhyXrYKj7?usp=sharing)
 
-### 2. **[Project Title 2]**  
+### 2. **Exploring Vacation Rental Prices: Spatial Regression Analysis in Metro Manila**  
    - **Description**: Brief description of the project.
    - **Technologies**: Python, R, SQL, etc.
-   - **Link**: [(https://colab.research.google.com/drive/1VJG00009GZufknQ7KJfNcpwEhyXrYKj7?usp=sharing)](#)
+   - **Link**: [Exploring Vacation Rental Prices Exercise](https://colab.research.google.com/drive/1VJG00009GZufknQ7KJfNcpwEhyXrYKj7?usp=sharing)]
 
 ### 3. **Byaheng Late: Evaluating University Accessibility and Road Disruption using Isochrone and Centrality Analysis**  
    - **Description**: This study focuses on providing valuable insights into travel times to universities within urban cities. We analyzed and visualized both ideal travel times and the actual travel times to universities in Quezon City and Manila City following road disruptions. Using isochrone maps and centrality analysis, we illustrated the impact of these disruptions on accessibility, helping to better understand the flow of traffic and the real-time effects on travel efficiency to key destinations.
-   - **Link**: [(https://colab.research.google.com/drive/1B_Aa8tuUx3EgmAOd_UGzA0QgA8Scczg_?usp=sharing)](#)
+   - **Link**: [Byaheng Late Capstone Project](https://colab.research.google.com/drive/1B_Aa8tuUx3EgmAOd_UGzA0QgA8Scczg_?usp=sharing)]
 
 ---
 
@@ -51,6 +51,6 @@ In addition to my projects, this portfolio includes a blog where I share my insi
 
 I’d love to connect with fellow developers, data scientists, and anyone passionate about technology and problem-solving. You can reach me via:
 
-- **Email**: [youremail@example.com](mailto:markbroqueza23@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/markjames-broqueza)
-- **GitHub**: [GitHub Profile](https://github.com/mjbroqueza)
+- **Email**: [markbroqueza23@gmail.com](mailto:markbroqueza23@gmail.com)
+- **LinkedIn**: [Mark James Broqueza](https://www.linkedin.com/in/markjames-broqueza)
+- **GitHub**: [mjbroqueza](https://github.com/mjbroqueza)
